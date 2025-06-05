@@ -1,8 +1,5 @@
 <footer>
     <div class="banner">
-        Configure your perimeter to treat <span style="color:#FFFFFF"><?php
-            $host = $_SERVER['HTTP_HOST']; // Get the host (domain) from the current URL
-            echo $host; // Output the domain from the URL
-        ?></span> as an uncategorized domain for accurate testing
+        All tests are non-malicious and safe for production environments. No real threats are delivered. By continuing, you agree to our Terms of Use and Privacy Policy.
     </div>
 </footer>

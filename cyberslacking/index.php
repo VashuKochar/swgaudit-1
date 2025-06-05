@@ -44,13 +44,11 @@
                 <!-- Options will be generated here -->
             </select>
             <div class="video-container">
-                <iframe id="youtube-frame" 
-                        width="720" 
-                        height="400" 
+                <iframe id="youtube-frame"
                         src=""
-                        title="YouTube video player" 
-                        frameborder="0" 
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                        title="YouTube video player"
+                        frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                         allowfullscreen>
                 </iframe>
             </div>
